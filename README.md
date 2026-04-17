@@ -4,8 +4,7 @@
 
 | Name | SRN |
 |------|-----|
-| Arnav choudhary | PES1UG24AM050 |
-| Arya  C A  | PES1UG24AM050 |
+| Ashwin Anand | PES1UG24AM057 |
 
 ---
 
