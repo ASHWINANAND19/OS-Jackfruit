@@ -86,18 +86,19 @@ ps aux | grep engine
 
 ## 3. Demo Screenshots
 
-<img width="955" height="482" alt="Screenshot 2026-04-17 at 11 06 02 AM" src="https://github.com/user-attachments/assets/2e15c9ee-33f0-4cf9-81c4-53e95d4660fb" />
+<img width="879" height="515" alt="image" src="https://github.com/user-attachments/assets/2a590128-eeac-44a2-a6ba-ca08eab0980a" />
 
-<img width="978" height="430" alt="Screenshot 2026-04-17 at 11 06 55 AM" src="https://github.com/user-attachments/assets/047dfdd6-e972-41ab-9039-fab21814cde6" />
+<img width="879" height="514" alt="image" src="https://github.com/user-attachments/assets/6bc7bf2a-a6b4-4a03-90ad-f13db38ff78d" />
 
-<img width="934" height="555" alt="Screenshot 2026-04-17 at 11 11 50 AM" src="https://github.com/user-attachments/assets/92db1e5b-cfdd-452e-93dc-cc8dfbc3e86f" />
+<img width="860" height="234" alt="image" src="https://github.com/user-attachments/assets/488e2b16-23b3-45aa-a917-0b795c815e28" />
 
-<img width="1455" height="715" alt="Screenshot 2026-04-17 at 11 14 15 AM" src="https://github.com/user-attachments/assets/a764f2d0-5583-4d9a-af5f-93d18d55737e" />
+<img width="859" height="251" alt="image" src="https://github.com/user-attachments/assets/9e8946cd-1fad-4448-8b6c-1034a7b1a8e3" />
 
-<img width="822" height="504" alt="Screenshot 2026-04-17 at 11 15 11 AM" src="https://github.com/user-attachments/assets/02dc9f5a-a9ca-4aa2-9fbf-6d87f697f03b" />
+<img width="1218" height="605" alt="image" src="https://github.com/user-attachments/assets/55f3d318-38fd-4f28-84cb-ec1bbed3ae35" />
 
-<img width="782" height="485" alt="Screenshot 2026-04-17 at 11 15 43 AM" src="https://github.com/user-attachments/assets/659bd0a4-61d4-4eee-aa9f-54962f7b4850" />
+<img width="1215" height="254" alt="image" src="https://github.com/user-attachments/assets/bc020e62-e786-41bf-9cc4-fdc4bcab86cd" />
 
+<img width="1219" height="414" alt="image" src="https://github.com/user-attachments/assets/9994ccd4-ac86-4dd7-bf24-35244f7419ce" />
 
 ## 4. Engineering Analysis
 
